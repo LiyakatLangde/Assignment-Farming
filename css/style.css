@@ -192,7 +192,12 @@ footer p{
   .members{
     width:95%;
   }
-  
+  .carousel-item{
+    height: 453px;
+  }
+  .carousel-item img{
+    height: 453px;
+  }
 
     }
 
